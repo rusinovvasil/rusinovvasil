@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm [Vasil Rusinov]
+# 👋 Hello, World! I'm Vasil
 
 
 
